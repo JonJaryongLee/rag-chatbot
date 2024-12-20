@@ -1,0 +1,408 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_name": "Summer Dress",
+      "category": "드레스",
+      "style_descriptor": "Casual Summer Style",
+      "price": 59.99,
+      "color": "Blue",
+      "size": "M",
+      "stock_quantity": 10
+    },
+    {
+      "id": 2,
+      "product_name": "Leather Jacket",
+      "category": "자켓",
+      "style_descriptor": "Trendy Black Leather",
+      "price": 129.99,
+      "color": "Black",
+      "size": "L",
+      "stock_quantity": 5
+    },
+    {
+      "id": 3,
+      "product_name": "Casual Shirt",
+      "category": "셔츠",
+      "style_descriptor": "Classic White Shirt",
+      "price": 39.99,
+      "color": "White",
+      "size": "L",
+      "stock_quantity": 20
+    },
+    {
+      "id": 4,
+      "product_name": "Wool Sweater",
+      "category": "스웨터",
+      "style_descriptor": "Warm Wool Knit",
+      "price": 79.99,
+      "color": "Gray",
+      "size": "M",
+      "stock_quantity": 8
+    },
+    {
+      "id": 5,
+      "product_name": "Slim Fit Jeans",
+      "category": "청바지",
+      "style_descriptor": "Modern Slim Fit",
+      "price": 49.99,
+      "color": "Dark Blue",
+      "size": "32",
+      "stock_quantity": 15
+    },
+    {
+      "id": 6,
+      "product_name": "Classic Trench Coat",
+      "category": "코트",
+      "style_descriptor": "Timeless Classic Trench",
+      "price": 149.99,
+      "color": "Beige",
+      "size": "L",
+      "stock_quantity": 12
+    },
+    {
+      "id": 7,
+      "product_name": "Floral Skirt",
+      "category": "스커트",
+      "style_descriptor": "Elegant Floral Design",
+      "price": 44.99,
+      "color": "Red",
+      "size": "S",
+      "stock_quantity": 18
+    },
+    {
+      "id": 8,
+      "product_name": "Denim Jacket",
+      "category": "자켓",
+      "style_descriptor": "Casual Denim Look",
+      "price": 89.99,
+      "color": "Light Blue",
+      "size": "M",
+      "stock_quantity": 9
+    },
+    {
+      "id": 9,
+      "product_name": "Silk Blouse",
+      "category": "블라우스",
+      "style_descriptor": "Luxury Silk Feel",
+      "price": 69.99,
+      "color": "Pink",
+      "size": "S",
+      "stock_quantity": 14
+    },
+    {
+      "id": 10,
+      "product_name": "Workout Leggings",
+      "category": "레깅스",
+      "style_descriptor": "Flexible Activewear",
+      "price": 34.99,
+      "color": "Black",
+      "size": "M",
+      "stock_quantity": 25
+    },
+    {
+      "id": 11,
+      "product_name": "Cashmere Scarf",
+      "category": "스카프",
+      "style_descriptor": "Soft Cashmere Comfort",
+      "price": 59.99,
+      "color": "Gray",
+      "size": "One Size",
+      "stock_quantity": 30
+    },
+    {
+      "id": 12,
+      "product_name": "Chinos",
+      "category": "치노 바지",
+      "style_descriptor": "Smart Casual Pants",
+      "price": 49.99,
+      "color": "Khaki",
+      "size": "34",
+      "stock_quantity": 22
+    },
+    {
+      "id": 13,
+      "product_name": "Graphic T-Shirt",
+      "category": "티셔츠",
+      "style_descriptor": "Trendy Graphic Tee",
+      "price": 24.99,
+      "color": "White",
+      "size": "M",
+      "stock_quantity": 35
+    },
+    {
+      "id": 14,
+      "product_name": "Leather Boots",
+      "category": "부츠",
+      "style_descriptor": "Elegant Leather Boots",
+      "price": 99.99,
+      "color": "Brown",
+      "size": "9",
+      "stock_quantity": 11
+    },
+    {
+      "id": 15,
+      "product_name": "Peacoat",
+      "category": "코트",
+      "style_descriptor": "Classic Winter Coat",
+      "price": 179.99,
+      "color": "Navy",
+      "size": "L",
+      "stock_quantity": 7
+    },
+    {
+      "id": 16,
+      "product_name": "High-Waisted Skirt",
+      "category": "스커트",
+      "style_descriptor": "Stylish High Waist",
+      "price": 39.99,
+      "color": "Black",
+      "size": "S",
+      "stock_quantity": 16
+    },
+    {
+      "id": 17,
+      "product_name": "Plaid Shirt",
+      "category": "셔츠",
+      "style_descriptor": "Classic Plaid Pattern",
+      "price": 34.99,
+      "color": "Red/Black",
+      "size": "M",
+      "stock_quantity": 20
+    },
+    {
+      "id": 18,
+      "product_name": "Sweater Dress",
+      "category": "드레스",
+      "style_descriptor": "Cozy Knit Dress",
+      "price": 69.99,
+      "color": "Cream",
+      "size": "M",
+      "stock_quantity": 13
+    },
+    {
+      "id": 19,
+      "product_name": "Long Sleeve Tee",
+      "category": "티셔츠",
+      "style_descriptor": "Comfortable Long Sleeve",
+      "price": 29.99,
+      "color": "Gray",
+      "size": "L",
+      "stock_quantity": 28
+    },
+    {
+      "id": 20,
+      "product_name": "Cardigan",
+      "category": "가디건",
+      "style_descriptor": "Warm Casual Knit",
+      "price": 54.99,
+      "color": "Beige",
+      "size": "M",
+      "stock_quantity": 17
+    },
+    {
+      "id": 21,
+      "product_name": "Boat Shoes",
+      "category": "구두",
+      "style_descriptor": "Comfortable Summer Shoes",
+      "price": 74.99,
+      "color": "Brown",
+      "size": "10",
+      "stock_quantity": 12
+    },
+    {
+      "id": 22,
+      "product_name": "Puffer Jacket",
+      "category": "자켓",
+      "style_descriptor": "Warm Puffer Style",
+      "price": 139.99,
+      "color": "Black",
+      "size": "L",
+      "stock_quantity": 8
+    },
+    {
+      "id": 23,
+      "product_name": "Long Wool Coat",
+      "category": "코트",
+      "style_descriptor": "Elegant Winter Wear",
+      "price": 199.99,
+      "color": "Gray",
+      "size": "L",
+      "stock_quantity": 6
+    },
+    {
+      "id": 24,
+      "product_name": "Crew Neck Sweater",
+      "category": "스웨터",
+      "style_descriptor": "Classic Crew Neck",
+      "price": 49.99,
+      "color": "Blue",
+      "size": "M",
+      "stock_quantity": 15
+    },
+    {
+      "id": 25,
+      "product_name": "Leather Handbag",
+      "category": "핸드백",
+      "style_descriptor": "Stylish Leather Bag",
+      "price": 119.99,
+      "color": "Brown",
+      "size": "One Size",
+      "stock_quantity": 10
+    },
+    {
+      "id": 26,
+      "product_name": "Printed Shorts",
+      "category": "반바지",
+      "style_descriptor": "Casual Summer Print",
+      "price": 29.99,
+      "color": "Yellow",
+      "size": "M",
+      "stock_quantity": 23
+    },
+    {
+      "id": 27,
+      "product_name": "Knit Dress",
+      "category": "드레스",
+      "style_descriptor": "Warm Knit Fabric",
+      "price": 79.99,
+      "color": "Red",
+      "size": "S",
+      "stock_quantity": 9
+    },
+    {
+      "id": 28,
+      "product_name": "Ankle Boots",
+      "category": "부츠",
+      "style_descriptor": "Stylish Ankle Cut",
+      "price": 89.99,
+      "color": "Black",
+      "size": "8",
+      "stock_quantity": 14
+    },
+    {
+      "id": 29,
+      "product_name": "Casual Blazer",
+      "category": "자켓",
+      "style_descriptor": "Smart Casual Blazer",
+      "price": 99.99,
+      "color": "Navy",
+      "size": "L",
+      "stock_quantity": 11
+    },
+    {
+      "id": 30,
+      "product_name": "Jogger Pants",
+      "category": "팬츠",
+      "style_descriptor": "Comfortable Joggers",
+      "price": 39.99,
+      "color": "Gray",
+      "size": "M",
+      "stock_quantity": 20
+    }
+  ],
+  "detail": [
+    {
+      "product_id": 1,
+      "advantage": "산뜻한 블루 컬러로 여름철 시원하게 입기 좋습니다.",
+      "disadvantage": "추운 계절에는 적합하지 않습니다.",
+      "recommendation": "여름철 산뜻한 스타일을 원하는 분께 추천합니다."
+    },
+    {
+      "product_id": 2,
+      "advantage": "트렌디한 블랙 컬러로 다양한 스타일에 매칭 가능합니다.",
+      "disadvantage": "여름철에는 더울 수 있습니다.",
+      "recommendation": "멋스러움을 유지하면서 보온성을 원하는 분께 추천합니다."
+    },
+    {
+      "product_id": 3,
+      "advantage": "무난한 디자인으로 데일리 룩으로 적합합니다.",
+      "disadvantage": "화이트 색상은 쉽게 오염될 수 있습니다.",
+      "recommendation": "깔끔하고 편안한 캐주얼룩을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 4,
+      "advantage": "클래식한 디자인으로 따뜻하고 고급스럽습니다.",
+      "disadvantage": "여름철에는 입기 어렵습니다.",
+      "recommendation": "겨울철 포근하면서 격식을 차리고 싶은 분께 추천합니다."
+    },
+    {
+      "product_id": 5,
+      "advantage": "슬림핏으로 세련된 실루엣을 연출할 수 있습니다.",
+      "disadvantage": "지나치게 타이트하면 불편할 수 있습니다.",
+      "recommendation": "세련된 슬림핏을 원하는 분께 추천합니다."
+    },
+    {
+      "product_id": 6,
+      "advantage": "클래식한 디자인으로 사계절 활용 가능합니다.",
+      "disadvantage": "관리가 필요한 소재입니다.",
+      "recommendation": "우아한 스타일을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 7,
+      "advantage": "화려한 디자인으로 여성스러운 룩을 연출할 수 있습니다.",
+      "disadvantage": "패턴이 강해 특정 스타일에만 어울릴 수 있습니다.",
+      "recommendation": "화려하고 독특한 스타일을 즐기는 분께 추천합니다."
+    },
+    {
+      "product_id": 8,
+      "advantage": "트렌디한 디자인으로 캐주얼룩에 적합합니다.",
+      "disadvantage": "여름철에 덥게 느껴질 수 있습니다.",
+      "recommendation": "편안하고 캐주얼한 스타일을 원하는 분께 추천합니다."
+    },
+    {
+      "product_id": 9,
+      "advantage": "우아한 실크 소재로 고급스러운 느낌을 줍니다.",
+      "disadvantage": "관리가 까다롭고 쉽게 구김이 갈 수 있습니다.",
+      "recommendation": "고급스러운 스타일을 원하는 분께 추천합니다."
+    },
+    {
+      "product_id": 10,
+      "advantage": "편안한 착용감으로 운동 시 적합합니다.",
+      "disadvantage": "지나치게 타이트하면 불편할 수 있습니다.",
+      "recommendation": "운동을 자주 하거나 편안한 스타일을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 11,
+      "advantage": "고급스러운 캐시미어 소재로 따뜻하고 부드럽습니다.",
+      "disadvantage": "관리가 어렵고 민감한 피부에 자극이 될 수 있습니다.",
+      "recommendation": "고급스럽고 따뜻한 액세서리를 원하는 분께 추천합니다."
+    },
+    {
+      "product_id": 12,
+      "advantage": "캐주얼하면서도 세련된 느낌을 주는 바지입니다.",
+      "disadvantage": "다소 구김이 잘 생길 수 있습니다.",
+      "recommendation": "세미 캐주얼을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 13,
+      "advantage": "개성 있는 그래픽 디자인으로 트렌디한 스타일을 연출할 수 있습니다.",
+      "disadvantage": "특정 그래픽은 시간이 지나면 유행이 지날 수 있습니다.",
+      "recommendation": "개성 있고 트렌디한 옷을 찾는 분께 추천합니다."
+    },
+    {
+      "product_id": 14,
+      "advantage": "세련된 디자인과 가죽 소재로 고급스럽습니다.",
+      "disadvantage": "가죽은 관리가 필요하며 무거울 수 있습니다.",
+      "recommendation": "고급스러운 스타일을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 15,
+      "advantage": "클래식한 디자인으로 겨울철에 따뜻하고 멋스러운 연출이 가능합니다.",
+      "disadvantage": "무게가 다소 무겁게 느껴질 수 있습니다.",
+      "recommendation": "겨울철 포멀한 스타일을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 16,
+      "advantage": "허리를 강조해 날씬해 보이는 효과를 줍니다.",
+      "disadvantage": "특정 체형에 맞지 않을 수 있습니다.",
+      "recommendation": "허리를 강조하는 여성스러운 스타일을 선호하는 분께 추천합니다."
+    },
+    {
+      "product_id": 17,
+      "advantage": "체크무늬가 클래식하면서도 캐주얼한 룩에 적합합니다.",
+      "disadvantage": "무늬가 강해 다른 패턴과 매치하기 어렵습니다.",
+      "recommendation": "캐주얼하면서도 세련된 스타일을 원하는 분께 추천합니다."
+    }
+  ]
+}
